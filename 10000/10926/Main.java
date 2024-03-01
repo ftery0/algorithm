@@ -8,7 +8,7 @@ public class Main {
 		String lastString = "??!";
 		
 		String s = in.next();
-        in.close();
+     in.close();
 		System.out.println(s + lastString);
 	}
 }
